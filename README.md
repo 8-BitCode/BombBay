@@ -4,4 +4,3 @@ a web scraper which gets Wikipedia articles that rhyme to the inputted text in t
 - install the selenium and wikipedia apis
 and your done!!!!!!
 
-tbh this project was for the lebron james meme lol
